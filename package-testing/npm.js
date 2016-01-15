@@ -1,4 +1,4 @@
-// This example show different possibilities of a test
+// This example shows a possibility to use NPM modules in a test
 
 // package.js can have different NPM dependencies and use NPM modules
 Npm.depends({
