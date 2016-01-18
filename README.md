@@ -10,6 +10,7 @@ This repo includes some examples for Meteor and Meteor packages
 
 ##### [Meteor documentation](http://docs.meteor.com/)
 ##### [Build Plugins API](https://github.com/meteor/meteor/wiki/Build-Plugins-API/)
+##### [Building to iOS and Android](https://github.com/meteor/meteor/wiki/Meteor-Cordova-integration)
 
 ## External resource
 
