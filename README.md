@@ -9,6 +9,7 @@ This repo includes some examples for Meteor and Meteor packages
 ## Documentation
 
 ##### [Meteor documentation](http://docs.meteor.com/)
+##### [Meteor accounts](https://www.meteor.com/accounts)
 ##### [Build Plugins API](https://github.com/meteor/meteor/wiki/Build-Plugins-API/)
 ##### [Building to iOS and Android](https://github.com/meteor/meteor/wiki/Meteor-Cordova-integration)
 
@@ -20,5 +21,7 @@ This repo includes some examples for Meteor and Meteor packages
 
 ## Packages
 
+##### [Repository](https://atmospherejs.com)
+##### [Iron router](https://atmospherejs.com/iron/router)
 ##### [Collection schema](https://atmospherejs.com/aldeed/collection2)
 ##### [Collection Hooks](https://atmospherejs.com/matb33/collection-hooks)
