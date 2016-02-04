@@ -18,6 +18,7 @@ This repo includes some examples for Meteor and Meteor packages
 ##### [The Meteor Chef - recipes, code examples](https://themeteorchef.com/)
 ##### [Evented Mind - video lessons](https://www.eventedmind.com/classes)
 ##### [Meteor cookbook - GIT repository by Abigail Watson](https://github.com/awatson1978/meteor-cookbook)
+##### [Unit testing and integration testing examples - Dr Llama's Blog](https://doctorllama.wordpress.com/2014/08/03/creating-and-testing-meteor-applications-with-bdd-using-velocity-and-jasmine/)
 
 ## Packages
 
