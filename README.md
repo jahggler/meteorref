@@ -12,6 +12,7 @@ This repo includes some examples for Meteor and Meteor packages
 ##### [Meteor accounts](https://www.meteor.com/accounts)
 ##### [Build Plugins API](https://github.com/meteor/meteor/wiki/Build-Plugins-API/)
 ##### [Building to iOS and Android](https://github.com/meteor/meteor/wiki/Meteor-Cordova-integration)
+##### [Jasmine behavior-driven development framework (tests)](http://jasmine.github.io/2.0/introduction.html)
 
 ## External resource
 
