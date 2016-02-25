@@ -5,6 +5,8 @@ This repo includes some examples for Meteor and Meteor packages
 * [Asynchronous client-side testing](package-testing/testAsync.js)
 * [NPM dependency](package-testing/npm.js)
 
+##### [Server-side Examples](server)
+* [Publication Transform (change documents during publication)](server/publication-transform.js)
 
 ## Documentation
 
