@@ -6,6 +6,7 @@ This repo includes some examples for Meteor and Meteor packages
 * [NPM dependency](package-testing/npm.js)
 
 ##### [Server-side Examples](server)
+* [Cookbook](server/cookbook.js)
 * [Publication Transform (change documents during publication)](server/publication-transform.js)
 
 ## Documentation
